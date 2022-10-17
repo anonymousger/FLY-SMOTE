@@ -19,3 +19,25 @@ To run a model on one dataset you should issue the following command:
 ```bash
 python main.py -f <dataname> -d <directory name>
 ```
+
+## Prerequisites
+The python packages needed are:
+* numpy
+* pandas
+* sklearn
+* scipy
+* matplotlib
+* tensorflow
+* keras
+
+## Reference
+If you re-use this work, please cite:
+@ARTICLE{9800764,
+  author={Younis, Raneen and Fisichella, Marco},
+  journal={IEEE Access}, 
+  title={FLY-SMOTE: Re-Balancing the Non-IID IoT Edge Devices Data in Federated Learning System}, 
+  year={2022},
+  volume={10},
+  number={},
+  pages={65092-65102},
+  doi={10.1109/ACCESS.2022.3184309}}
