@@ -32,6 +32,7 @@ The python packages needed are:
 
 ## Reference
 If you re-use this work, please cite:
+```
 @ARTICLE{9800764,
   author={Younis, Raneen and Fisichella, Marco},
   journal={IEEE Access}, 
@@ -41,3 +42,4 @@ If you re-use this work, please cite:
   number={},
   pages={65092-65102},
   doi={10.1109/ACCESS.2022.3184309}}
+```
