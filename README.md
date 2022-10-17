@@ -12,12 +12,13 @@ The code is divided as follows:
 
 * The main.py python file contains the necessary code to run an experiement.
 * The FlySmote.py contains the necessary functions to apply fly-smote re-balancing method.
+* the NNModel.py contains the neural network model.
 * The ReadData.py file contains the necessary functions to read the datasets.
 
 To run a model on one dataset you should issue the following command:
 
 ```bash
-python main.py -f <dataname> -d <directory name>
+python main.py -f <dataname> -d <data file name>
 ```
 
 ## Prerequisites
