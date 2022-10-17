@@ -17,7 +17,7 @@ The code is divided as follows:
 To run a model on one dataset you should issue the following command:
 
 ```bash
-python main.py -f <dataname> -d <directory name>
+python main.py -f <dataname> -d <data file name>
 ```
 
 ## Prerequisites
